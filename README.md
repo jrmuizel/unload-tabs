@@ -26,8 +26,7 @@
 </ul>
 
 <b>BUGS</b>:
-Firefox currently suffers from a number of bugs related to unloading tabs. Most notably, tabs may <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1450382">lose their icons</a> or <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1450371">display as loading</a>. Fixing that is Mozilla's job.
-If you encounter any <b>other</b> problems, please report them as an <a href="https://github.com/NiklasGollenstede/unload-tabs/issues">issue</a> or comment on an existing issue matching your problem. Please don't complain in a rating on the Add-ons download page. I can't respond to those.
+If you encounter any problems, please report them as an <a href="https://github.com/NiklasGollenstede/unload-tabs/issues">issue</a> or comment on an existing issue matching your problem. Please don't complain in a rating on the Add-ons download page. I can't respond to those.
 
 <b>Permissions used</b>:<ul>
 	<li> <b>Display notifications</b>: Only to report errors </li>
